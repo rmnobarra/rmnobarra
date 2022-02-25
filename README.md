@@ -3,9 +3,9 @@
 
 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1> <hr>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> O meu perfil ! </h1> <hr>
 
-My name is Leonardo Silva dos Santos. I work as a Devops at Zup Innovation.
+Olá, eu sou o Leonardo aka rmnobarra!
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=rmnobarra&repo=rmnobarra&countColorcountColor)
 
